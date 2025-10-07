@@ -2,7 +2,7 @@ This repo contains some schematics for Mindustry.
 
 ## How to use
 
-The best way is to use [Schematic Browser Reworked](https://github.com/StormyBytes/mindustry-schematic-browser), which lets you insert schematics from GitHub repositories without needing to first add them to your collection.
+The best way is to use the [Schematic Browser](https://github.com/MindustryDesignIt/schematic-browser-mod) mod, which lets you insert schematics from GitHub repositories without needing to first add them to your collection.
 
 1. In the Mindustry menu, choose “Mods”.
 2. Open the mod browser.  
